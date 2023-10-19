@@ -2,5 +2,7 @@
     padding: 0px;
     margin: 0px;
     border: none;
+    outline: none;
     box-sizing: border-box;
+    font-family: monospace;
 }
