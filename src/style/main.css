@@ -31,9 +31,7 @@ h2 {
     letter-spacing: 0.1em;
 }
 
-.game {
-    /* width: 800px;
-    height: 500px; */
+.game {    
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     flex-wrap: wrap;
