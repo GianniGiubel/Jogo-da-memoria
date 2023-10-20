@@ -33,8 +33,7 @@ h2 {
 
 .game {    
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    flex-wrap: wrap;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;    
     gap: 10px;
     transform-style: preserve-3d;
     perspective: 500px;
