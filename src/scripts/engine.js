@@ -9,6 +9,7 @@
  ]
  let openCards = []
  let numberOfLifes = 10
+ 
  document.querySelector('.life').innerHTML = `♥ X${numberOfLifes}`
 
  let shuffleEmojis = emojis.sort(() => (Math.random() > 0.5 ? 2 : -1))
